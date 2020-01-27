@@ -4,7 +4,7 @@
 注意：是爬取【个人】也就是【你自己的账号】提交的代码，不是爬取【他人】的代码，更不是爬取【官方代码】！！！
 
 # 灵感
-**辛辛苦苦三个月，勤勤恳恳四百题，leetcode一片绿，github万里白。**
+**已刷500题**
 
 手动上传是不可能手动上传的，这辈子也懒得手动上传。
 
@@ -12,9 +12,9 @@
 
 学了两天爬虫鼓捣了这么个东西出来，我用的蛮顺手的，希望你们也能用的顺手。
 
-我的生成文件夹可以参考：https://github.com/JiayangWu/LeetCode-Python
+我的生成文件夹可以参考 [这里](https://github.com/ML-ZimingMeng/LeetCode-Python3/tree/master/source/All_Solutions)
 
-我的题解博客可以参考：https://blog.csdn.net/qq_32424059
+我的题解博客可以参考：[ziming.xyz](https://www.ziming.xyz)
 
 # 使用方法
 1. clone或者download到本地
